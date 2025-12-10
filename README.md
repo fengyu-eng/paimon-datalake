@@ -37,40 +37,41 @@
 
 2. 业务数据->MySQL->Flink CDC
 
-   ![ODS](images/image-20251210152128407)
+   ![ODS](images/image-20251210152128407.png)
 
    
 
-4. 元数据存储在Hive中，实际数据存储在HDFS，示例：![image-20251210152840540](C:\Users\32160\AppData\Roaming\Typora\typora-user-images\image-20251210152840540.png)
+4. 元数据存储在Hive中，实际数据存储在HDFS，示例：![ODS](images/image-20251210152840540.png)
 
 
 
 2）DIM层建设
 
-![image-20251210153036871](C:\Users\32160\AppData\Roaming\Typora\typora-user-images\image-20251210153036871.png)
+![image-20251210153036871](images/image-20251210153036871.png)
 
-![image-20251210153201790](C:\Users\32160\AppData\Roaming\Typora\typora-user-images\image-20251210153201790.png)
+![image-20251210153201790](images/image-20251210153201790.png)
 
 3）DWD层建设
 
 
 
-![image-20251210153259974](C:\Users\32160\AppData\Roaming\Typora\typora-user-images\image-20251210153259974.png)
+![image-20251210153259974](images/image-20251210153259974.png)
 
-![image-20251210154517444](C:\Users\32160\AppData\Roaming\Typora\typora-user-images\image-20251210154517444.png)
+![image-20251210154517444](images/image-20251210154517444.png)
 
 4）DWS层建设
 
-![image-20251210154622417](C:\Users\32160\AppData\Roaming\Typora\typora-user-images\image-20251210154622417.png)
+![image-20251210154622417](images/image-20251210154622417.png)
 
-![image-20251210154715199](C:\Users\32160\AppData\Roaming\Typora\typora-user-images\image-20251210154715199.png)
+![image-20251210154715199](images/image-20251210154715199.png)
 
 5）ADS层建设
 
-![image-20251210154807004](C:\Users\32160\AppData\Roaming\Typora\typora-user-images\image-20251210154807004.png)
+![image-20251210154807004](images/image-20251210154807004.png)
 
 
-![image-20251210154827469](C:\Users\32160\AppData\Roaming\Typora\typora-user-images\image-20251210154827469.png)
+![image-20251210154827469](images/image-20251210154827469.png)
+
 
 
 
