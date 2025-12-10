@@ -33,7 +33,7 @@
 
 1）ODS层建设
 
-1. 日志数据->Kafka->Flink Kafka Connector![ODS](images/image-20251210152105004)
+1. 日志数据->Kafka->Flink Kafka Connector![ODS](images/image-20251210152105004.png)
 
 2. 业务数据->MySQL->Flink CDC
 
@@ -71,6 +71,7 @@
 
 
 ![image-20251210154827469](C:\Users\32160\AppData\Roaming\Typora\typora-user-images\image-20251210154827469.png)
+
 
 
 
